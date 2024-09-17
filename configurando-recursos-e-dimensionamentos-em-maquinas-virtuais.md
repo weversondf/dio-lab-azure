@@ -76,9 +76,7 @@ Primeiro, faça login no [Portal do Azure](https://portal.azure.com). Certifique
 - Você pode ajustar os recursos da VM a qualquer momento, acessando a aba de **Dimensionamento** no painel de configurações.
 - Para ampliar a capacidade, considere **adicionar novas VMs** à sua rede ou usar um **Balanceador de Carga** para distribuir o tráfego entre múltiplas instâncias.
 
-## Referências - Módulo Descrever a identidade, o acesso e a segurança do Azure   
-- [Unidade 1 de 11 - Introdução](https://learn.microsoft.com/training/modules/describe-azure-identity-access-security/1-introduction)
-- [Unidade 3 de 11 - Descrever os métodos de autenticação do Azure](https://learn.microsoft.com/training/modules/describe-azure-identity-access-security/3-authentication-methods)
-- [Unidade 4 de 11 - Descrever as identidades externas do Azure](https://learn.microsoft.com/training/modules/describe-azure-identity-access-security/4-external-identities)
-- [Unidade 7 de 11 - Descrever o modelo de Confiança Zero](https://learn.microsoft.com/training/modules/describe-azure-identity-access-security/7-describe-zero-trust-model)
+## Referências
+- [Conjuntos de Dimensionamento de Máquinas Virtuais do Azure](https://learn.microsoft.com/pt-br/azure/virtual-machine-scale-sets/)
+- [Máquinas Virtuais do Azure](https://azure.microsoft.com/pt-br/products/virtual-machines)
 
